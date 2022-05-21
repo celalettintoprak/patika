@@ -4,7 +4,7 @@
 ---
 ### 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-## ***Cevap 1:***
+### ***Cevap 1:***
     [2,27,16,22,18,6]
     [2,6,16,22,18,27]
     [2,6,16,18,22,27]
